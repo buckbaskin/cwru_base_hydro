@@ -252,49 +252,49 @@ clean: gtest/CMakeFiles/gtest_main.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory abby_simple_motion
+# Directory level rules for directory example_code/abby_simple_motion
 
 # Convenience name for "all" pass in the directory.
-abby_simple_motion/all:
-.PHONY : abby_simple_motion/all
+example_code/abby_simple_motion/all:
+.PHONY : example_code/abby_simple_motion/all
 
 # Convenience name for "clean" pass in the directory.
-abby_simple_motion/clean: abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
-.PHONY : abby_simple_motion/clean
+example_code/abby_simple_motion/clean: example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
+.PHONY : example_code/abby_simple_motion/clean
 
 # Convenience name for "preinstall" pass in the directory.
-abby_simple_motion/preinstall:
-.PHONY : abby_simple_motion/preinstall
+example_code/abby_simple_motion/preinstall:
+.PHONY : example_code/abby_simple_motion/preinstall
 
 #=============================================================================
-# Target rules for target abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir
+# Target rules for target example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir
 
 # All Build rule for target.
-abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all:
-	$(MAKE) -f abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/depend
-	$(MAKE) -f abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build
+example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all:
+	$(MAKE) -f example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/depend
+	$(MAKE) -f example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/luc/ros_workspace/cwru_base_hydro/catkin/build/CMakeFiles 
 	@echo "Built target _catkin_empty_exported_target"
-.PHONY : abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all
+.PHONY : example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all
 
 # Build rule for subdir invocation for target.
-abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule: cmake_check_build_system
+example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/luc/ros_workspace/cwru_base_hydro/catkin/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/luc/ros_workspace/cwru_base_hydro/catkin/build/CMakeFiles 0
-.PHONY : abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule
+.PHONY : example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 # Convenience name for target.
-_catkin_empty_exported_target: abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule
+_catkin_empty_exported_target: example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/rule
 .PHONY : _catkin_empty_exported_target
 
 # clean rule for target.
-abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean:
-	$(MAKE) -f abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
-.PHONY : abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
+example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean:
+	$(MAKE) -f example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/build.make example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
+.PHONY : example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 # clean rule for target.
-clean: abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
+clean: example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/clean
 .PHONY : clean
 
 #=============================================================================

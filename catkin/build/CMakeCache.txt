@@ -233,10 +233,10 @@ _CATKIN_GTEST_INCLUDE:FILEPATH=/usr/include/gtest/gtest.h
 _CATKIN_GTEST_SRC:FILEPATH=/usr/src/gtest/src/gtest.cc
 
 //Value Computed by CMake
-abby_simple_motion_BINARY_DIR:STATIC=/home/luc/ros_workspace/cwru_base_hydro/catkin/build/abby_simple_motion
+abby_simple_motion_BINARY_DIR:STATIC=/home/luc/ros_workspace/cwru_base_hydro/catkin/build/example_code/abby_simple_motion
 
 //Value Computed by CMake
-abby_simple_motion_SOURCE_DIR:STATIC=/home/luc/ros_workspace/cwru_base_hydro/catkin/src/abby_simple_motion
+abby_simple_motion_SOURCE_DIR:STATIC=/home/luc/ros_workspace/cwru_base_hydro/catkin/src/example_code/abby_simple_motion
 
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/hydro/share/catkin/cmake

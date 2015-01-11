@@ -10,12 +10,12 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/CMakeCCompiler.cmake"
   "CMakeFiles/CMakeCXXCompiler.cmake"
   "CMakeFiles/CMakeSystem.cmake"
-  "abby_simple_motion/catkin_generated/package.cmake"
   "catkin/catkin_generated/version/package.cmake"
   "catkin_generated/order_packages.cmake"
+  "example_code/abby_simple_motion/catkin_generated/package.cmake"
   "/home/luc/ros_workspace/cwru_base_hydro/catkin/src/CMakeLists.txt"
-  "/home/luc/ros_workspace/cwru_base_hydro/catkin/src/abby_simple_motion/CMakeLists.txt"
-  "/home/luc/ros_workspace/cwru_base_hydro/catkin/src/abby_simple_motion/package.xml"
+  "/home/luc/ros_workspace/cwru_base_hydro/catkin/src/example_code/abby_simple_motion/CMakeLists.txt"
+  "/home/luc/ros_workspace/cwru_base_hydro/catkin/src/example_code/abby_simple_motion/package.xml"
   "/opt/ros/hydro/share/catkin/cmake/../package.xml"
   "/opt/ros/hydro/share/catkin/cmake/all.cmake"
   "/opt/ros/hydro/share/catkin/cmake/assert.cmake"
@@ -124,7 +124,7 @@ SET(CMAKE_MAKEFILE_OUTPUTS
 SET(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "abby_simple_motion/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "example_code/abby_simple_motion/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -135,5 +135,5 @@ SET(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/tests.dir/DependInfo.cmake"
   "gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
   "gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake"
+  "example_code/abby_simple_motion/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake"
   )

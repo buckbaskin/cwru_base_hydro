@@ -16,5 +16,5 @@ export PKG_CONFIG_PATH="/home/luc/ros_workspace/cwru_base_hydro/catkin/devel/lib
 export PWD="/home/luc/ros_workspace/cwru_base_hydro/catkin/build"
 export PYTHONPATH="/home/luc/ros_workspace/cwru_base_hydro/catkin/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/luc/ros_workspace/cwru_base_hydro/catkin/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/bettaiebluc/ros_workspace/cwru-abby-dev/catkin/src:/home/luc/ros_workspace/cwru_base_hydro/catkin/src:$ROS_PACKAGE_PATH"
+export ROS_PACKAGE_PATH="/home/luc/ros_workspace/cwru_base_hydro/catkin/src:$ROS_PACKAGE_PATH"
 export ROS_TEST_RESULTS_DIR="/home/luc/ros_workspace/cwru_base_hydro/catkin/build/test_results"
