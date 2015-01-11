@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luc/ros_workspace/cwru_base_hydro/catkin/devel/setup.sh
