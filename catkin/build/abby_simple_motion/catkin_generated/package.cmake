@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "abby_simple_motion")
+set(abby_simple_motion_MAINTAINER "bettaiebluc <bettaiebluc@todo.todo>")
+set(abby_simple_motion_DEPRECATED "")
+set(abby_simple_motion_VERSION "0.0.0")
+set(abby_simple_motion_BUILD_DEPENDS )
+set(abby_simple_motion_RUN_DEPENDS )
+set(abby_simple_motion_BUILDTOOL_DEPENDS "catkin")

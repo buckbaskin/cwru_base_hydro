@@ -1,0 +1,8 @@
+prefix=/home/luc/ros_workspace/cwru_base_hydro/catkin/devel
+
+Name: abby_simple_motion
+Description: Description of abby_simple_motion
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/luc/ros_workspace/cwru_base_hydro/catkin/devel/lib 
+Requires: 
