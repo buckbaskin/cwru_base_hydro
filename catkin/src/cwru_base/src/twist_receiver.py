@@ -20,7 +20,7 @@ import threading
 import socket
 
 import roslib
-roslib.load_manifest('cwru_base')
+#roslib.load_manifest('cwru_base')
 import rospy
 from geometry_msgs.msg import Twist
 from std_srvs.srv import Empty, EmptyResponse
